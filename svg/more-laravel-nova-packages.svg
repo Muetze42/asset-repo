@@ -1,4 +1,4 @@
-<svg id="MoreNovaPackages" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 20">
+<svg id="MoreNovaPackages" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 200 20" style="max-width: 768px;">
   <defs>
     <radialGradient id="Unbenannter_Verlauf_2" data-name="Unbenannter Verlauf 2" cx="22.76998" cy="28.79842" r="0.27869" gradientTransform="matrix(28.83074, 19.38087, 19.38182, -28.83081, -1126.08428, 394.62971)" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#00ffc4"/>
